@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom';
 import React from 'react';
 import './style.css';
 
-(React(console.log))
+// (React(console.log))
 
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
